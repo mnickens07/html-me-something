@@ -1,0 +1,26 @@
+header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    margin-left: 8px;
+  }
+
+h1 {
+    text-align: center;
+  }
+
+p {
+    background-color: whitesmoke;
+  }
+
+.hometown {
+    color: red;
+  }
+
+#red-background {
+    background-color: firebrick;
+}
+
+body{
+    background-color: firebrick;
+}
